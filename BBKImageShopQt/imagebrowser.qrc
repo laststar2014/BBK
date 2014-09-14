@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/about.png</file>
+        <file>icons/apply.png</file>
+        <file>icons/brick.png</file>
+        <file>icons/next.png</file>
+        <file>icons/previous.png</file>
+        <file>icons/zoomin.png</file>
+        <file>icons/zoomnormal.png</file>
+        <file>icons/zoomout.png</file>
+        <file>icons/BbkImageShop.ico</file>
+    </qresource>
+</RCC>
